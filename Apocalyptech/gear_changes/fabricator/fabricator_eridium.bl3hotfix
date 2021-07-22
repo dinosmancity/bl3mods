@@ -80,6 +80,6 @@ SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design
 SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/Parts/Part_Eridian_Fabricator.Part_Eridian_Fabricator,AspectList.AspectList[2].Object..WeaponUseComponent.Object..MinShotAmmoCost,0,,32
 
 # Setting the item pool
-SparkPatchEntry,(1,1,0,),/Game/GameData/Loot/ItemPools/Fabricator/ItemPool_FabricatorGuns_AltFire.ItemPool_FabricatorGuns_AltFire,BalancedItems,0,,((ItemPoolData=ItemPoolData'"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium_Stack.ItemPool_Eridium_Stack"',Weight=(BaseValueConstant=1)))
+SparkPatchEntry,(1,1,0,),/Game/GameData/Loot/ItemPools/Fabricator/ItemPool_FabricatorGuns_AltFire.ItemPool_FabricatorGuns_AltFire,BalancedItems,0,,((ItemPoolData=ItemPoolData'"/Game/GameData/Loot/ItemPools/Eridium/ItemPool_Eridium_Stack.ItemPool_Eridium_Stack"',Weight=(BaseValueConstant=1000000000)))
 SparkPatchEntry,(1,1,0,),/Game/GameData/Loot/ItemPools/Fabricator/ItemPool_FabricatorGuns_AltFire.ItemPool_FabricatorGuns_AltFire,Quantity,0,,(BaseValueConstant=8,DataTableValue=(DataTable=None,RowName="",ValueName=""),BaseValueAttribute=None,AttributeInitializer=None,BaseValueScale=1)
 
